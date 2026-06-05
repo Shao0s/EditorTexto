@@ -21,10 +21,8 @@ Interfaz gráfica desarrollada con Tkinter.
 
 Estructura del Proyecto
 
-pruebas_repo/
-
+EditorTexto/
 ├── main.py
-
 └── lib/
     ├── __init__.py
     └── archivo.py

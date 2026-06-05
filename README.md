@@ -36,7 +36,7 @@ Instalación
 
 Clona el repositorio:
 
-git clone https://github.com/USUARIO/NOMBRE_DEL_REPOSITORIO.git
+git clone https://github.com/USUARIO/EditorTexto.git
 
 Ingresa al directorio del proyecto:
 

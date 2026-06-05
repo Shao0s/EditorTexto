@@ -26,6 +26,7 @@ EditorTexto/
 ├── main.py
 
 └── lib/
+
     ├── __init__.py
     └── archivo.py
 main.py
